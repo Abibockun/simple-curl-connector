@@ -1,7 +1,0 @@
-services:
-#    abibockun_curl.example:
-#        class: Abibockun\Bundle\CurlBundle\Example
-#        arguments: ["@service_id", "plain_value", "%parameter%"]
-
-    abibockun.curl.service:
-      class: Abibockun\Bundle\CurlBundle\Service\CurlService

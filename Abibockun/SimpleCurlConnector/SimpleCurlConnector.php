@@ -1,11 +1,11 @@
 <?php
 
-namespace Abibockun\Bundle\CurlBundle\Service;
+namespace Abibockun\SimpleCurlConnector;
 
 /**
- * Class CurlService
+ * Class SimpleCurlConnector
  */
-class CurlService
+class SimpleCurlConnector
 {
     const MODE_DEBUG = 'debug';
     const MODE_PRODUCTION = 'production';
@@ -20,7 +20,7 @@ class CurlService
     private $extraHeaders;
 
     /**
-     * CurlService constructor.
+     * SimpleCurlConnector constructor.
      */
     public function __construct()
     {

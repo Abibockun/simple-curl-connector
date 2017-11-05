@@ -1,17 +1,3 @@
-# Simple CURL Symfony Bundle.
+# Simple CURL PHP Connector
 
-### A  litte tool for making CURL requests
-
-## Installation
-
-```
-	composer 
-
-```
-
-Than just add bundle in your AppKernel.php
-
-```
-new Abibockun\Bundle\CurlBundle\AbibockunCurlBundle(),
-
-```
+### A  little tool for making CURL requests
